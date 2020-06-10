@@ -1,2 +1,5 @@
 matplotlib
 numpy
+BeautifulSoup
+selenium
+webdriver_manager
